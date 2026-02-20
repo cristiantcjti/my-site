@@ -12,3 +12,6 @@ However, the truth is a way from that and software engineering is more like an e
 Unfortunately though, the IT industry is more like a jungle where we need to survive. It is at times  exciting, at times overwhelming to be out there fighting for our survival. It is like a maze that changes its routes everyday forcing us constantly to learn its patterns.
 
 Have **you** ever felt like that? 
+
+
+Written by human - me

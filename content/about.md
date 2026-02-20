@@ -5,15 +5,18 @@ title = 'About me'
 +++
 
 ## Hey there, Cris here!
-Welcome to my blog.
 
-I am a software engineer that loves learning and sharing knowladge and expiriences. My entire carrer has been aroung Python :snake: and its frameworks as well as the countless additional tools a software engineer must handle. 
+I am a software engineer that loves learning and sharing knowladge and expiriences. My entire carrer has been around Python :snake: and its frameworks as well as the countless additional tools a software engineer must handle. 
 
+I have been working in different business in the IT industry, for example Agro, Educational and Oil and Gas.  
 
-- Talk about real life of a software engineer. 
-- Write about software engineering, tools, and ideas.
-- Share what I learn along the way
+Currently I have been digging deeper into system design concepts and obvously AI.  
  
 
 ## Get in touch
-Feel free to reach out — links in the footer.
+Feel free to reach out:
+
+{{< social-link icon="linkedin" name="LinkedIn" url="https://www.linkedin.com/in/cristian-senior-software-engineer/" >}}
+
+
+{{< social-link icon="github" name="GitHub" url="https://github.com/cristiantcjti" >}}

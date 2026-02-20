@@ -5,3 +5,9 @@
 .logo a {
     font-size: 28px;
 }
+
+/* social-link shortcode */
+.social-link-icon svg {
+    width: 100%;
+    height: 100%;
+}

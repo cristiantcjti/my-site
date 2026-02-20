@@ -17,6 +17,10 @@ enableEmoji = true
   TocOpen = false
 
 [[params.socialIcons]]
+  name = 'linkedin'
+  url  = 'https://www.linkedin.com/in/cristian-senior-software-engineer/'
+
+[[params.socialIcons]]
   name = 'github'
   url  = 'https://github.com/cristiantcjti'
 
