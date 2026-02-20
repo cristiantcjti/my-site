@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The Pragmatic Engineer</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The Pragmatic Engineer</description>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Feb 2026 23:27:40 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real life</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Feb 2026 23:27:40 -0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;I decide to create this blog to share real life experices of a software engineer in a world where it seems there is no more reality, where everyone seems perfect, super efficient with no flaws building rocket-science projects.&lt;/p&gt;
+&lt;p&gt;However, the truth is a way from that and software engineering is more like an empty canvas where engineers work as artists, painting the next portrait filed with uncertaints but doing their best to make the least wrong decisions&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
