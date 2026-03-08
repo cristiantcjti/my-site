@@ -1,4 +1,4 @@
-baseURL = 'https://thepragmaticengineer.com/'
+baseURL = 'https://thepragmaticengineer.pages.dev/'
 theme = 'hugo-mana-theme'
 paginate = 10
 defaultContentLanguage = 'en'
