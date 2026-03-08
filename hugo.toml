@@ -1,12 +1,12 @@
 baseURL = 'https://thepragmaticengineer.com/'
-theme = 'PaperMod'
+theme = 'hugo-mana-theme'
 paginate = 10
 defaultContentLanguage = 'en'
 enableEmoji = true
 
 [params]
   author = 'Cristian'
-  description = 'A _Software engineer sharing studies, knowledge, and ideas with the community.'
+  description = 'A Software engineer sharing studies, knowledge, and ideas with the community.'
   defaultTheme = 'auto'
   ShowReadingTime = true
   ShowShareButtons = false
@@ -16,13 +16,9 @@ enableEmoji = true
   ShowToc = true
   TocOpen = false
 
-[[params.socialIcons]]
-  name = 'linkedin'
-  url  = 'https://www.linkedin.com/in/cristian-senior-software-engineer/'
-
-[[params.socialIcons]]
-  name = 'github'
-  url  = 'https://github.com/cristiantcjti'
+[params.social]
+  linkedin = 'https://www.linkedin.com/in/cristian-senior-software-engineer/'
+  github   = 'https://github.com/cristiantcjti'
 
 [languages]
 
@@ -33,18 +29,23 @@ enableEmoji = true
     title         = 'The Pragmatic Engineer'
 
     [languages.en.params.homeInfoParams]
-      Title   = '_Software Engineering is an Art_'
-      Content = '_Software engineer sharing studies, notes, knowledge and real life with the community. Check out the blog posts and if I can contribute somehow with you, the blog will be successfully archived its purpose._'
+      Title   = 'Software Engineering is an Art_'
+      Content = 'A Software engineer sharing knowledge, studies, notes and real life experiences with the community. Check out the blog posts and if I can contribute somehow with you, the blog will have successfully archived its purpose._'
+
+    [[languages.en.menu.main]]
+      name   = 'Home'
+      url    = '/'
+      weight = 10
 
     [[languages.en.menu.main]]
       name   = 'About'
       url    = '/about/'
-      weight = 1
+      weight = 20
 
     [[languages.en.menu.main]]
       name   = 'Blog'
       url    = '/posts/'
-      weight = 2
+      weight = 30
 
   [languages.pt]
     languageCode  = 'pt-br'
@@ -57,16 +58,33 @@ enableEmoji = true
       Content = 'Engenheiro backend compartilhando estudos, notas e conhecimento com a comunidade.'
 
     [[languages.pt.menu.main]]
+      name   = 'Inicio'
+      url    = '/'
+      weight = 10
+    
+    [[languages.pt.menu.main]]
       name   = 'Sobre'
       url    = '/pt/about/'
-      weight = 1
+      weight = 20
 
     [[languages.pt.menu.main]]
       name   = 'Blog'
       url    = '/pt/posts/'
-      weight = 2
+      weight = 30
 
 [markup.highlight]
   style     = 'monokai'
   lineNos   = false
   noClasses = false
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+
+[params.avatar]
+  [params.avatar.home]
+    assetPath = "images/software-engineer.jpg"
+  [params.avatar.about]
+    assetPath = "images/software-engineer.jpg"

@@ -4,52 +4,58 @@
   <url>
     <loc>http://localhost:1313/pt/about/</loc>
     <lastmod>2026-02-19T22:54:27-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/about/"
-                />
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/about/"/>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt/about/"
-                />
-  </url><url>
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/about/"/>
+  </url>
+  <url>
     <loc>http://localhost:1313/pt/</loc>
     <lastmod>2026-02-19T22:54:27-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
     <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/"
-                />
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/"/>
     <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt/tags/"
-                />
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/"/>
   </url>
+  <url>
+    <loc>http://localhost:1313/pt/categories/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/categories/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/categories/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt/tags/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/"/>
+  </url>
+  
 </urlset>

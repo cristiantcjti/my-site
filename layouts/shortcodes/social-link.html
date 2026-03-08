@@ -1,8 +1,5 @@
 <a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer me"
    title="{{ .Get "name" }}"
    style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; margin-right:16px;">
-    <span class="social-link-icon" style="display:inline-flex; width:20px; height:20px; flex-shrink:0;">
-        {{ partial "svg.html" (dict "ctx" . "name" (.Get "icon")) }}
-    </span>
     {{ .Get "name" }}
 </a>
