@@ -6,7 +6,6 @@ enableEmoji = true
 
 [params]
   author = 'Cristian'
-  description = 'A Software engineer sharing studies, knowledge, and ideas with the community.'
   defaultTheme = 'auto'
   ShowReadingTime = true
   ShowShareButtons = false
@@ -28,9 +27,9 @@ enableEmoji = true
     weight        = 1
     title         = 'The Pragmatic Engineer'
 
-    [languages.en.params.homeInfoParams]
-      Title   = 'Software Engineering is an Art_'
-      Content = 'A Software engineer sharing knowledge, studies, notes and real life experiences with the community. Check out the blog posts and if I can contribute somehow with you, the blog will have successfully archived its purpose._'
+    [languages.en.params]
+      description = '$ echo Software engineer sharing studies, knowledge, and ideas with the community.'
+      heroTitleLine1 = 'Software Engineering is an Art'
 
     [[languages.en.menu.main]]
       name   = 'Home'
@@ -53,9 +52,9 @@ enableEmoji = true
     weight        = 2
     title         = 'The Pragmatic Engineer'
 
-    [languages.pt.params.homeInfoParams]
-      Title   = 'Olá, eu sou o Cristian'
-      Content = 'Engenheiro backend compartilhando estudos, notas e conhecimento com a comunidade.'
+    [languages.pt.params]
+      description = '$ echo Engenheiro de software compartilhando estudos, conhecimento e ideias com a comunidade.'
+      heroTitleLine1 = 'Engenharia de Software é uma Art'
 
     [[languages.pt.menu.main]]
       name   = 'Inicio'

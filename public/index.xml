@@ -10,17 +10,17 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Real life</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/real-life/</link>
       <pubDate>Thu, 19 Feb 2026 23:27:40 -0300</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;I decide to create this blog to share real life experices of a software engineer in a world where it seems there is no more reality, where everyone seems perfect, super efficient with no flaws building rocket-science projects.&lt;/p&gt;&#xA;&lt;p&gt;However, the truth is far from that and software engineering is more like an empty canvas where engineers work as artists, painting the next portrait filed with uncertaints but doing their best to make the least wrong decisions&amp;hellip;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/real-life/</guid>
+      <description>&lt;h2 id=&#34;is-it-real&#34;&gt;Is It Real?&lt;/h2&gt;&#xA;&lt;p&gt;You may have asked this question today, haven&amp;rsquo;t you? I would guess that yes in case you watched some &amp;lsquo;perfect&amp;rsquo; videos on the social medial you like the most. Well, if you asked yourself, I do not blame you. Specially with AI now, very likely questioning what is real will be around for a long time.&lt;/p&gt;&#xA;&lt;p&gt;This is one of the reasons why I decided to create this blog, to share real life experiences of a software engineer in a world where it seems there is no more reality, where everyone seems perfect, super efficient with no flaws building rocket-science projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 19 Feb 2026 22:54:27 -0300</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;hey-there-cris-here&#34;&gt;Hey there, Cris here!&lt;/h2&gt;&#xA;&lt;p&gt;I am a software engineer that loves learning and sharing knowladge and expiriences. My entire carrer has been around Python &amp;#x1f40d; and its frameworks as well as the countless additional tools a software engineer must handle.&lt;/p&gt;&#xA;&lt;p&gt;Building scale applications applying software architecture and system design are what I like the most in software engineering industry. My technical journey is rooted in a deep love for architecture, code quality, and the challenge of making complex systems work seamlessly.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hey-there-cris-here&#34;&gt;Hey there, Cris here!&lt;/h2&gt;&#xA;&lt;p&gt;Welcome aboad!&lt;/p&gt;&#xA;&lt;p&gt;I am a software engineer that loves learning and sharing knowladge and expiriences. My entire carrer has been around Python ecosystem &amp;#x1f40d; and its frameworks as well as the countless additional tools a software engineer must handle.&lt;/p&gt;&#xA;&lt;p&gt;Building scale applications applying software architecture and system design are what I like the most in software engineering industry. My technical journey is rooted in a deep love for architecture, code quality and the challenge of making complex systems work seamlessly.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

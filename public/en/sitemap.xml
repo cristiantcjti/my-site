@@ -8,18 +8,68 @@
     <priority>0.5</priority>
     <xhtml:link
                rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/posts/"/>
+    <xhtml:link
+               rel="alternate"
                hreflang="en"
                href="http://localhost:1313/posts/"/>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/real-life/</loc>
     <lastmod>2026-02-19T23:27:40-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
                rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/posts/real-life/"/>
+    <xhtml:link
+               rel="alternate"
                hreflang="en"
-               href="http://localhost:1313/posts/my-first-post/"/>
+               href="http://localhost:1313/posts/real-life/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/real-life/</loc>
+    <lastmod>2026-02-19T23:27:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/real-life/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/real-life/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
+    <lastmod>2026-02-19T23:27:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/software-engineering/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/software-engineering/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-19T23:27:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/"/>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
@@ -62,20 +112,6 @@
                rel="alternate"
                hreflang="en"
                href="http://localhost:1313/categories/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="pt"
-               href="http://localhost:1313/pt/tags/"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/"/>
   </url>
   
 </urlset>
