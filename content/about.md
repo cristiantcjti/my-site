@@ -9,7 +9,7 @@ description = '$ echo Going On Overcoming my Failures and Striving for Greatness
 
 Welcome aboard!
 
-I am a software engineer that loves learning and sharing knowladge and expiriences. My entire carrer has been around Python ecosystem :snake: and its frameworks as well as the countless additional tools a software engineer must handle. 
+I am a software engineer that loves learning and sharing knowladge and experiences. My entire carrer has been around Python ecosystem :snake: and its frameworks as well as the countless additional tools a software engineer must handle. 
 
 Building scale applications applying software architecture and system design are what I like the most in software engineering industry. My technical journey is rooted in a deep love for architecture, code quality and the challenge of making complex systems work seamlessly. 
 
