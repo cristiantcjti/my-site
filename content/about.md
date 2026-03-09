@@ -7,7 +7,7 @@ description = '$ echo Going On Overcoming my Failures and Striving for Greatness
 
 ## Hey there, Cris here!
 
-Welcome aboad!
+Welcome aboard!
 
 I am a software engineer that loves learning and sharing knowladge and expiriences. My entire carrer has been around Python ecosystem :snake: and its frameworks as well as the countless additional tools a software engineer must handle. 
 
