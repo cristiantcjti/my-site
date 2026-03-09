@@ -2,7 +2,7 @@
 date = '2026-02-19T22:54:27-03:00'
 draft = false
 title = 'About me'
-description = '$ echo Striving for Greatness'
+description = '$ echo Going On Overcoming my Failures and Striving for Greatness'
 +++
 
 ## Hey there, Cris here!

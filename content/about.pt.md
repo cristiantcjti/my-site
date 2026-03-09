@@ -2,7 +2,7 @@
 date = '2026-02-19T22:54:27-03:00'
 draft = false
 title = 'Sobre mim'
-description = '$ echo Esforçando-se pela Excelência'
+description = '$ echo Continuo Vencendo Minhas Falhas e Esforçando-se pela Excelência'
 +++
 
 ## Olá, sou o Cristian!

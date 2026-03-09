@@ -86,4 +86,4 @@ enableEmoji = true
   [params.avatar.home]
     assetPath = "images/software-engineer.jpg"
   [params.avatar.about]
-    assetPath = "images/software-engineer.jpg"
+    assetPath = "images/me.jpg"
