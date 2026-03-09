@@ -6,7 +6,7 @@ tags = ['real life', 'software engineering']
 +++
 
 ## Isso é Real? ##
-Você talvez se perguntou isso hoje, não? I chutaria que sim em caso você tenha assistido alguns vídeos "perfeitos" na sua rede social favorita. Bem, se você se fez essa pergunta, eu não lhe culpo. Especialmente agora com a IA, muito provavelmente questionar o que é realidade será algo corriqueiro por um bom tempo. 
+Você talvez se perguntou isso hoje, não? Eu chutaria que sim em caso você tenha assistido alguns vídeos "perfeitos" na sua rede social favorita. Bem, se você se fez essa pergunta, eu não lhe culpo. Especialmente agora com a IA, muito provavelmente questionar o que é realidade será algo corriqueiro por um bom tempo. 
 
 Esse foi um dos motivods de o por que eu descidi criar esse blog, para compartilhar experiências da vida real de um engenheiro de software em um mundo onde parece não haver mais realidade, onde todos parecem perfeitos, super eficientes e sem falha alguma trabalhando em projetos incríveis. 
 
