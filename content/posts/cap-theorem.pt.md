@@ -13,7 +13,7 @@ Então você está está em uma reunião de refinamento técnico. Juntamente com
 * Quais fundamentos traria para mesa para apoiar sua ideia? 
 
 * Confiaria apenas na sua intuição, experiência e mantendo-se em sua zona de conforto, apenas diria: 
-    * "Acredito que o banco dedaos xyz vai atender as nossas necessidades, afinal já temos esse banco rodando em nosso projeto." ? 
+    * "Acredito que o banco de daos 'xyz' vai atender as nossas necessidades, afinal já temos esse banco rodando em nosso projeto..." ? 
 
 
 ## E agora? ##
