@@ -1,20 +1,18 @@
 +++
 date = '2026-03-17T19:00:40-03:00'
 draft = false
-title = 'Cap Theorem'
+title = 'Banco de dados - A decisão!'
 tags = ['software engineering', 'system design','data base']
 +++
 
-# Banco de dados - A decisão #
-
-## Cenário: ##
-E então você está está em uma reunião de refinamento técnico. Juntamente com o time, estão exatamente naquele momento de definir qual banco de dados usar. Alguns defendem o uso de um banco de dados relacional, outros levantam a bandeira do não relacional. E então, chega o seu momento de entrar na discussão e dar sua opnião... 
+## Cenário ##
+Então você está está em uma reunião de refinamento técnico. Juntamente com o time, estão exatamente naquele momento de definir qual banco de dados usar. Alguns defendem o uso de um banco de dados relacional, outros levantam a bandeira do não relacional. E então, chega o seu momento de entrar na discussão e dar sua opnião... 
 
 * Quais parâmetros você analizaria para dar sua sugestão? 
 
 * Quais fundamentos traria para mesa para apoiar sua ideia? 
 
-* Confiaria apenas na sua intuição, experiência e no mais confortável e diria apenas: 
+* Confiaria apenas na sua intuição, experiência e mantendo-se em sua zona de conforto, apenas diria: 
     * "Acredito que o banco dedaos xyz vai atender as nossas necessidades, afinal já temos esse banco rodando em nosso projeto." ? 
 
 
