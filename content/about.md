@@ -15,9 +15,9 @@ Building scale applications applying software architecture and system design are
 
 My professional experience developing solutions with software has been in three different areas so far:
 
-  * Agricultare 
-  * Educational
-  * Oil and Gas  
+* Agricultare
+* Educational
+* Oil and Gas
 
 I have been workign as a software engineer contributing and directly impacting the teams, bringing a pragmatic way, looking for continuous learning and sharing experiences. 
 
