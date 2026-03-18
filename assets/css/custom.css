@@ -17,6 +17,17 @@
   --tag-color: #1d4ed8;
 }
 
+/* about page list indentation */
+.about-content-full ul,
+.about-content-full ol {
+    padding-left: 1.5em;
+    margin-bottom: 1em;
+}
+
+.about-content-full li {
+    margin-bottom: 0.4em;
+}
+
 [data-theme="light"] body {
   background-image: radial-gradient(
     circle at center,
