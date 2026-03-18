@@ -9,14 +9,19 @@ description = '$ echo Going On Overcoming my Failures and Striving for Greatness
 
 Welcome aboard!
 
-I am a software engineer that loves learning and sharing knowladge and experiences. My entire carrer has been around Python ecosystem :snake: and its frameworks as well as the countless additional tools a software engineer must handle. 
+I am a software engineer that loves learning and sharing knowledge and experiences of real life. My entire carrer has been around Python ecosystem :snake: and its frameworks as well as the countless additional tools a software engineer must handle. 
 
-Building scale applications applying software architecture and system design are what I like the most in software engineering industry. My technical journey is rooted in a deep love for architecture, code quality and the challenge of making complex systems work seamlessly. 
+Building scale applications applying software architecture and system design are the main aspects that I like the most in software engineering industry. My technical journey is strongly rooted in curiosity and studies about how to develop system design, architecture, testable and high quality code, always trying to make complex systems work seamlessly, simple and efficient. 
 
-I have been working in different business in the IT industry, for example Agro, Educational and Oil and Gas.  
+My professional experience developing solutions with software has been in three different areas so far:
 
-Currently I have been digging deeper into system design concepts and of course AI world :robot:.
- 
+* Agricultare 
+* Educational
+* Oil and Gas  
+
+I have been workign as a software engineer contributing and directly impacting the teams, bringing a pragmatic way, looking for continuous learning and sharing experiences. 
+
+Currently I have been deeping my knowledge in system design concepts and of course AI :robot:
 
 ## Get in touch
 Feel free to reach out:

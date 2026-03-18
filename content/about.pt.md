@@ -9,13 +9,19 @@ description = '$ echo Continuo Vencendo Minhas Falhas e Esforçando-se pela Exce
 
 Bem vindo a bordo.
 
-Sou um engenheiro de software que ama aprender e compartilhar conhecimento e experiências. Minha carreira tem sido em torno do ecosistema Python :snake: e seus frameworks como também as inúmeras ferramentas adicionais que um engenheiro de software precisa manejar. 
+Sou um engenheiro de software que ama aprender e compartilhar conhecimento e experiências da vida real. Minha carreira tem sido em torno do ecosistema Python :snake: e seus frameworks como também as inúmeras ferramentas adicionais que um engenheiro de software precisa manejar. 
 
-Construir projetos escalares aplicando arquitetura de software e design de sistemas são o que eu mais gosto na industria da engenharia de software. Minha jornada tecnica é fortemente enraizada por um grande amor por arquitetura, qualidade de código e o desafio de fazer sistemas complexos funcionarem da forma eficiente. 
+Construir projetos escaláveis aplicando arquitetura de software e design de sistemas são as particularidades que eu mais gosto na indústria da engenharia de software. Minha jornada técnica é fortemente embasada por curiosidade e estudos sobre como desenvolver design de sistemas, arquitetura, código testável e de qualidade buscando resolver problemas complexos com sistemas que funcionam de forma simples e eficientes.
 
-Tenho trabalhado em diferente negócios na indústria da tecnologia da informação, como por exemplo o Agro, Educacional e Petróleo e Gás. 
+Minha experiência profissional desenvolvendo soluções com software até aqui tem sido em três diferentes área:
 
-Atualmente eu tenho me aprofundado em conceitos de design de sistemas e claro no mundo da IA :robot:.
+* Agropecuária
+* Educacional
+* Petróleo e Gás
+
+Em todas esssas experiências atuei e tenho atuado como engenheiro de software, contribuindo e impactando diretamente os times onde atuo, trazendo uma visão pragmática e buscando aprender e compartilhar experiências já adquiridas.  
+
+Atualmente tenho me dedicado a aprofundar meus conhecimentos em conceitos de design de sistemas e claro no mundo da IA :robot:.
 
 ## Entre em contato
 Fique a vontade para entrar em contato:

@@ -19,14 +19,15 @@ Então você está está em uma reunião de refinamento técnico. Juntamente com
 ## E agora? ##
 Pois bem, essa é uma situação muito comum entre times de engenharia de software onde muitas vezes, decisões são tomadas sem uma consideração apurada e sem uma base sólida, levando a decisões que poderiam ser melhores. 
 
-Para nos ajudar a solucionar esse cenário temos algumas ferramentas que nos ajudam a definir os prós e contras na hora de definir exatamente qual tipo de banco de dados implementar em um projeto. 
+Para nos ajudar a solucionar esse cenário temos algumas ferramentas que nos ajudam a definir os prós e contras na hora de descidir exatamente qual tipo de banco de dados implementar em um projeto. 
 
-Esse é o início de uma série onde vou explorar os seguintes temas:
+Esse é o início de uma série onde vou explorar os conceito sobre tais ferramentas que são:
 
 * ACID
 * BASE
 * Teorema CAP
 * PACELC
 
-Esses são fundamentos base que engenheiros de software precisam ter dentro de sua caixa de ferramentas ao tomarem decisões ao definirem qual banco de dados usar. Então continuem acompanhando os próximos posts se tiver interesse em subir de nível como engenheiro de software.  
+Esses são fundamentos base que engenheiros de software precisam ter dentro de sua caixa de ferramentas para tomarem decisões ao definirem qual banco de dados usar em seus projetos. Então, continuem acompanhando os próximos posts se tiver interesse em subir de nível como engenheiro de software.  
  
+_Escrito por humano - **Cris**_
