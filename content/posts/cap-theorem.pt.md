@@ -23,10 +23,10 @@ Para nos ajudar a solucionar esse cenário temos algumas ferramentas que nos aju
 
 Esse é o início de uma série onde vou explorar os conceito sobre tais ferramentas que são:
 
-* ACID
-* BASE
-* Teorema CAP
-* PACELC
+    * ACID
+    * BASE
+    * Teorema CAP
+    * PACELC
 
 Esses são fundamentos base que engenheiros de software precisam ter dentro de sua caixa de ferramentas para tomarem decisões ao definirem qual banco de dados usar em seus projetos. Então, continuem acompanhando os próximos posts se tiver interesse em subir de nível como engenheiro de software.  
  
