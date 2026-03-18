@@ -6,21 +6,28 @@
     <description>Recent content on The Pragmatic Engineer</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 19 Feb 2026 23:27:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 19:00:40 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banco de dados - A decisão!</title>
+      <link>http://localhost:1313/pt/posts/cap-theorem/</link>
+      <pubDate>Tue, 17 Mar 2026 19:00:40 -0300</pubDate>
+      <guid>http://localhost:1313/pt/posts/cap-theorem/</guid>
+      <description>&lt;h2 id=&#34;cenário&#34;&gt;Cenário&lt;/h2&gt;&#xA;&lt;p&gt;Então você está está em uma reunião de refinamento técnico. Juntamente com o time, estão exatamente naquele momento de definir qual banco de dados usar. Alguns defendem o uso de um banco de dados relacional, outros levantam a bandeira do não relacional. E então, chega o seu momento de entrar na discussão e dar sua opnião&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Quais parâmetros você analizaria para dar sua sugestão?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Quais fundamentos traria para mesa para apoiar sua ideia?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vida Real</title>
       <link>http://localhost:1313/pt/posts/real-life/</link>
       <pubDate>Thu, 19 Feb 2026 23:27:40 -0300</pubDate>
       <guid>http://localhost:1313/pt/posts/real-life/</guid>
-      <description>&lt;h2 id=&#34;isso-é-real&#34;&gt;Isso é Real?&lt;/h2&gt;&#xA;&lt;p&gt;Você talvez se perguntou isso hoje, não? I chutaria que sim em caso você tenha assistido alguns vídeos &amp;ldquo;perfeitos&amp;rdquo; na sua rede social favorita. Bem, se você se fez essa pergunta, eu não lhe culpo. Especialmente agora com a IA, muito provavelmente questionar o que é realidade será algo corriqueiro por um bom tempo.&lt;/p&gt;&#xA;&lt;p&gt;Esse foi um dos motivods de o por que eu descidi criar esse blog, para compartilhar experiências da vida real de um engenheiro de software em um mundo onde parece não haver mais realidade, onde todos parecem perfeitos, super eficientes e sem falha alguma trabalhando em projetos incríveis.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;isso-é-real&#34;&gt;Isso é Real?&lt;/h2&gt;&#xA;&lt;p&gt;Você talvez se perguntou isso hoje, não? Eu chutaria que sim em caso você tenha assistido alguns vídeos &amp;ldquo;perfeitos&amp;rdquo; na sua rede social favorita. Bem, se você se fez essa pergunta, eu não lhe culpo. Especialmente agora com a IA, muito provavelmente questionar o que é realidade será algo corriqueiro por um bom tempo.&lt;/p&gt;&#xA;&lt;p&gt;Esse foi um dos motivods de o por que eu descidi criar esse blog, para compartilhar experiências da vida real de um engenheiro de software em um mundo onde parece não haver mais realidade, onde todos parecem perfeitos, super eficientes e sem falha alguma trabalhando em projetos incríveis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre mim</title>
       <link>http://localhost:1313/pt/about/</link>
       <pubDate>Thu, 19 Feb 2026 22:54:27 -0300</pubDate>
       <guid>http://localhost:1313/pt/about/</guid>
-      <description>&lt;h2 id=&#34;olá-sou-o-cristian&#34;&gt;Olá, sou o Cristian!&lt;/h2&gt;&#xA;&lt;p&gt;Bem vindo a bordo.&lt;/p&gt;&#xA;&lt;p&gt;Sou um engenheiro de software que ama aprender e compartilhar conhecimento e experiências. Minha carreira tem sido em torno do ecosistema Python &amp;#x1f40d; e seus frameworks como também as inúmeras ferramentas adicionais que um engenheiro de software precisa manejar.&lt;/p&gt;&#xA;&lt;p&gt;Construir projetos escalares aplicando arquitetura de software e design de sistemas são o que eu mais gosto na industria da engenharia de software. Minha jornada tecnica é fortemente enraizada por um grande amor por arquitetura, qualidade de código e o desafio de fazer sistemas complexos funcionarem da forma eficiente.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;olá-sou-o-cristian&#34;&gt;Olá, sou o Cristian!&lt;/h2&gt;&#xA;&lt;p&gt;Bem vindo a bordo.&lt;/p&gt;&#xA;&lt;p&gt;Sou um engenheiro de software que ama aprender e compartilhar conhecimento e experiências da vida real. Minha carreira tem sido em torno do ecosistema Python &amp;#x1f40d; e seus frameworks como também as inúmeras ferramentas adicionais que um engenheiro de software precisa manejar.&lt;/p&gt;&#xA;&lt;p&gt;Construir projetos escaláveis aplicando arquitetura de software e design de sistemas são as particularidades que eu mais gosto na indústria da engenharia de software. Minha jornada técnica é fortemente embasada por curiosidade e estudos sobre como desenvolver design de sistemas, arquitetura, código testável e de qualidade buscando resolver problemas complexos com sistemas que funcionam de forma simples e eficientes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 date = '2026-02-19T22:54:27-03:00'
 draft = false
 title = 'Sobre mim'
-description = '$ echo Continuo Vencendo Minhas Falhas e Esforçando-se pela Excelência'
+description = '$ echo Continuo Vencendo Minhas Falhas e Esforçando-me pela Excelência'
 +++
 
 ## Olá, sou o Cristian!
@@ -21,7 +21,7 @@ Minha experiência profissional desenvolvendo soluções com software até aqui 
 
 Em todas esssas experiências atuei e tenho atuado como engenheiro de software, contribuindo e impactando diretamente os times onde atuo, trazendo uma visão pragmática e buscando aprender e compartilhar experiências já adquiridas.  
 
-Atualmente tenho me dedicado a aprofundar meus conhecimentos em conceitos de design de sistemas e claro no mundo da IA :robot:.
+Atualmente tenho me dedicado a aprofundar meus conhecimentos em conceitos avançados de design de sistemas e claro no mundo da IA :robot:.
 
 ## Entre em contato
 Fique a vontade para entrar em contato:
@@ -31,3 +31,4 @@ Fique a vontade para entrar em contato:
 {{< social-link icon="github" name="GitHub" url="https://github.com/cristiantcjti" >}}
 
 
+_Escrito por humano - **Cris**_
