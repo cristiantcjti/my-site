@@ -6,6 +6,17 @@
     font-size: 28px;
 }
 
+/* about page list indentation */
+.about-content-full ul,
+.about-content-full ol {
+    padding-left: 1.5em;
+    margin-bottom: 1em;
+}
+
+.about-content-full li {
+    margin-bottom: 0.4em;
+}
+
 /* social-link shortcode */
 .social-link-icon svg {
     width: 100%;
