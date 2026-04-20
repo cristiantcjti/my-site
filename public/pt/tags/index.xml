@@ -9,24 +9,31 @@
     <lastBuildDate>Tue, 17 Mar 2026 19:00:40 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data-Base</title>
-      <link>http://localhost:1313/pt/tags/data-base/</link>
+      <title>Arquitetura</title>
+      <link>http://localhost:1313/pt/tags/arquitetura/</link>
       <pubDate>Tue, 17 Mar 2026 19:00:40 -0300</pubDate>
-      <guid>http://localhost:1313/pt/tags/data-base/</guid>
+      <guid>http://localhost:1313/pt/tags/arquitetura/</guid>
       <description></description>
     </item>
     <item>
-      <title>Software Engineering</title>
-      <link>http://localhost:1313/pt/tags/software-engineering/</link>
+      <title>Design De Sistemas</title>
+      <link>http://localhost:1313/pt/tags/design-de-sistemas/</link>
       <pubDate>Tue, 17 Mar 2026 19:00:40 -0300</pubDate>
-      <guid>http://localhost:1313/pt/tags/software-engineering/</guid>
+      <guid>http://localhost:1313/pt/tags/design-de-sistemas/</guid>
       <description></description>
     </item>
     <item>
-      <title>System Design</title>
-      <link>http://localhost:1313/pt/tags/system-design/</link>
+      <title>Engenharia De Software</title>
+      <link>http://localhost:1313/pt/tags/engenharia-de-software/</link>
       <pubDate>Tue, 17 Mar 2026 19:00:40 -0300</pubDate>
-      <guid>http://localhost:1313/pt/tags/system-design/</guid>
+      <guid>http://localhost:1313/pt/tags/engenharia-de-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Padrões De Projetos</title>
+      <link>http://localhost:1313/pt/tags/padr%C3%B5es-de-projetos/</link>
+      <pubDate>Tue, 17 Mar 2026 19:00:40 -0300</pubDate>
+      <guid>http://localhost:1313/pt/tags/padr%C3%B5es-de-projetos/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +41,13 @@
       <link>http://localhost:1313/pt/tags/real-life/</link>
       <pubDate>Thu, 19 Feb 2026 23:27:40 -0300</pubDate>
       <guid>http://localhost:1313/pt/tags/real-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/pt/tags/software-engineering/</link>
+      <pubDate>Thu, 19 Feb 2026 23:27:40 -0300</pubDate>
+      <guid>http://localhost:1313/pt/tags/software-engineering/</guid>
       <description></description>
     </item>
   </channel>

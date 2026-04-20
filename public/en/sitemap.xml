@@ -22,10 +22,6 @@
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="pt"
-               href="http://localhost:1313/pt/tags/data-base/"/>
-    <xhtml:link
-               rel="alternate"
                hreflang="en"
                href="http://localhost:1313/tags/data-base/"/>
   </url>
@@ -62,10 +58,6 @@
     <lastmod>2026-03-17T19:00:40-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="pt"
-               href="http://localhost:1313/pt/tags/system-design/"/>
     <xhtml:link
                rel="alternate"
                hreflang="en"

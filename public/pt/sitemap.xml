@@ -2,32 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt/posts/cap-theorem/</loc>
-    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/posts/cap-theorem/"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="pt"
-               href="http://localhost:1313/pt/posts/cap-theorem/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt/tags/data-base/</loc>
+    <loc>http://localhost:1313/pt/tags/arquitetura/</loc>
     <lastmod>2026-03-17T19:00:40-03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/data-base/"/>
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/arquitetura/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt/tags/design-de-sistemas/</loc>
+    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
     <xhtml:link
                rel="alternate"
                hreflang="pt"
-               href="http://localhost:1313/pt/tags/data-base/"/>
+               href="http://localhost:1313/pt/tags/design-de-sistemas/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt/tags/engenharia-de-software/</loc>
+    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/engenharia-de-software/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt/tags/padr%C3%B5es-de-projetos/</loc>
+    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/padr%C3%B5es-de-projetos/"/>
   </url>
   <url>
     <loc>http://localhost:1313/pt/posts/</loc>
@@ -42,34 +54,6 @@
                rel="alternate"
                hreflang="pt"
                href="http://localhost:1313/pt/posts/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt/tags/software-engineering/</loc>
-    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/software-engineering/"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="pt"
-               href="http://localhost:1313/pt/tags/software-engineering/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt/tags/system-design/</loc>
-    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/system-design/"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="pt"
-               href="http://localhost:1313/pt/tags/system-design/"/>
   </url>
   <url>
     <loc>http://localhost:1313/pt/tags/</loc>
@@ -100,6 +84,20 @@
                href="http://localhost:1313/pt/"/>
   </url>
   <url>
+    <loc>http://localhost:1313/pt/posts/cap-theorem/</loc>
+    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/posts/cap-theorem/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/posts/cap-theorem/"/>
+  </url>
+  <url>
     <loc>http://localhost:1313/pt/tags/real-life/</loc>
     <lastmod>2026-02-19T23:27:40-03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -112,6 +110,20 @@
                rel="alternate"
                hreflang="pt"
                href="http://localhost:1313/pt/tags/real-life/"/>
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt/tags/software-engineering/</loc>
+    <lastmod>2026-02-19T23:27:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/software-engineering/"/>
+    <xhtml:link
+               rel="alternate"
+               hreflang="pt"
+               href="http://localhost:1313/pt/tags/software-engineering/"/>
   </url>
   <url>
     <loc>http://localhost:1313/pt/posts/real-life/</loc>
