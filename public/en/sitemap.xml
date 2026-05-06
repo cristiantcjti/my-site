@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/data-base/</loc>
+    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://localhost:1313/tags/data-base/"/>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/cap-theorem/</loc>
     <lastmod>2026-03-17T19:00:40-03:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,16 +24,6 @@
                rel="alternate"
                hreflang="en"
                href="http://localhost:1313/posts/cap-theorem/"/>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/data-base/</loc>
-    <lastmod>2026-03-17T19:00:40-03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://localhost:1313/tags/data-base/"/>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>

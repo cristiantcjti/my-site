@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 17 Mar 2026 19:00:40 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Um novo projeto - Muitas decisões!</title>
+      <title>Um Novo Projeto - Muitas Decisões!</title>
       <link>http://localhost:1313/pt/posts/cap-theorem/</link>
       <pubDate>Tue, 17 Mar 2026 19:00:40 -0300</pubDate>
       <guid>http://localhost:1313/pt/posts/cap-theorem/</guid>
-      <description>&lt;h2 id=&#34;cenário&#34;&gt;Cenário&lt;/h2&gt;&#xA;&lt;p&gt;Então você está está em uma reunião de refinamento técnico. Juntamente com o time, estão exatamente em um momento de definições para a nova solução que estão implementando. Alguns defendem o uso de um banco de dados relacional, outros levantam a bandeira do não relacional. Monolito, monolito modular ou partirmos de microserviços? E então, chega o seu momento de entrar na discussão e dar sua opnião&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Quais parâmetros você analizaria para dar sua sugestão?&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;cenário&#34;&gt;Cenário&lt;/h2&gt;&#xA;&lt;p&gt;Então você está está em uma reunião de refinamento técnico. Juntamente com o time, estão exatamente em um momento de definições para a nova solução que estão implementando. Alguns defendem o uso de um banco de dados relacional, outros levantam a bandeira do não relacional. Monolito, monolito modular ou partirmos de microserviços? E então, chega o seu momento de entrar na discussão e dar sua opnião sobre o tópico banco de dados&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vida Real</title>
